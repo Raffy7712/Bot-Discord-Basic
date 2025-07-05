@@ -1,0 +1,16 @@
+{
+  "Commands": [
+    {
+      "Id": 1,
+      "type": "global",
+      "name": "ping",
+      "description": "Test bot connection"
+    },
+    {
+      "Id": 2,
+      "type": "guild",
+      "name": "hello",
+      "description": "Say Hi to bot"
+    }
+  ]
+}
