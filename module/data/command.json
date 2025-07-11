@@ -11,6 +11,33 @@
       "type": "guild",
       "name": "hello",
       "description": "Say Hi to bot"
+    },
+    {
+      "Id": 3,
+      "type": "guild",
+      "name": "button",
+      "description": "Create a button",
+      "options": [
+        {
+          "name": "id",
+          "description": "Id of the button",
+          "type": 3,
+          "required": true
+        },
+        {
+          "name": "title",
+          "description": "Title of the button",
+          "type": 3,
+          "required": true
+        },
+        {
+          "name": "style",
+          "description": "Style of the button",
+          "type": 4,
+          "required": true
+        }
+      ]
     }
+    
   ]
 }
