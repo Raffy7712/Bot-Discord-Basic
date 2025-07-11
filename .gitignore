@@ -1,1 +1,2 @@
-
+# Abaikan folder node_modules (standar proyek Node.js)
+node_modules/
